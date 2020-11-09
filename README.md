@@ -6,6 +6,7 @@
 Execute
 
 Use the following command to run the code:
+
 gcc BurgerBuddies.c -lpthread 
 ./a.out
 
